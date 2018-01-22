@@ -1,12 +1,13 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/fsj-cn/fsj-cn.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+冯仕佳
+——————————————————————————————
+南开大学————计算机技术——————硕士
+手机：15022307730  Email：2120170511@mail.nankai.edu.cn
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-t-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -23,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1516615051108&di=fdc73b5fa63b9f421d7dabd44440409a&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01ac4457f78dcba84a0d304fdc0a68.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
